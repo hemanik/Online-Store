@@ -20,7 +20,8 @@ All the data is stored and retrieved from CSV files. CSV files used here are:
 purchaseFinder.py is a command line utility tool.
 
  It accepts username and date of purchase as an optional parameter.
- Example: python purchaseFinder.py -us <username> -dop [<dd/mm/yyyy>] 
+ Example: 
+ python purchaseFinder.py -us <username> -dop [<dd/mm/yyyy>] 
 
  Sample: 
  To display all the purchases made by a user.
