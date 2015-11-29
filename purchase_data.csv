@@ -1,0 +1,12 @@
+"item","date_of_purchase","user","cost_of_purchase"
+"['juice', 'apple']",29/11/2015,hemani,160
+"['milk', 'apple']",29/11/2015,abc,140
+"['apple', 'mango']",29/11/2015,hemani,150
+"['juice', 'apple']",29/11/2015,abc,160
+"['juice', 'juice', 'mango']",29/11/2015,hemani,230
+"['mango', 'apple']",29/11/2015,hemani,150
+"['apple', 'mango']",29/11/2015,hemani,150
+"['milk', 'mango']",29/11/2015,hemani,130
+"['milk', 'apple']",29/11/2015,hemani,140
+"['juice', 'milk']",29/11/2015,hemani,140
+"['milk', 'juice']",26/11/2015,hemani,140
